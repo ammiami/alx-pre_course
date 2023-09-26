@@ -1,0 +1,1 @@
+# 0x01-git Project\n\nThis project is part of the ALX Software Engineering program's pre-course tasks. It focuses on Git and version control. The purpose of this project is to practice using Git, creating directories, and managing repositories.
